@@ -27,7 +27,7 @@ With a single click of the **Swap** button, you can flip the contents of both li
 
 ## 🛠️ Installation & Requirements
 
-1.  Download the latest version from the [Releases](#) section.
+1.  Download the latest version from the [Releases](https://github.com/askowron/WiFiSwapper/releases) section.
 2.  **Run as Administrator:** Necessary for modifying Windows network settings.
 3.  Set a password in the settings to activate Secure Mode.
 
@@ -53,7 +53,7 @@ Planned features for upcoming releases:
 
 WiFiSwapper is free and open-source. If this tool makes your life easier or helps you stay focused, consider supporting further development:
 
-👉 **[Buy Me a Coffee / Link to your Donation Page]**
+👉 **[Buy Me a Coffee](https://buycoffee.to/rico)**
 
 ---
 
